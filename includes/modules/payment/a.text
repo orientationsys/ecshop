@@ -1,0 +1,207 @@
+Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS] => Array
+        (
+            [visit_times] => 2
+        )
+
+    [ECS_ID] => e313226e7b27d93d817639687d3b70da322ae68a
+)
+-----------Array
+(
+    [code] => lianlian
+    [t] => url_return
+    [retcode] => 0000
+    [retmsg] => 交易成功
+    [oid_billno] => 2015033042314366
+    [trans_amt] => 10
+    [trans_cur] => CNY
+    [merchant_orderno] => 2015033053835_40
+    [merchant_id] => 201401271000001093
+    [merchant_trans_date] => 20150330062001
+    [pay_status] => SUCCESS
+    [sign_type] => MD5
+    [sign] => 333dca3e03d86c6f2cc43e236d56ee92
+    [ECS] => Array
+        (
+            [visit_times] => 16
+            [history] => 54,55,50,14,24
+            [display] => grid
+        )
+
+    [ECSCP_ID] => 984133a19e33af899fcc310408b8b150e82bf8e3
+    [ECS_ID] => ff15044f767ede838eb4965531bdaecf0ea105d9
+)
+-----------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS_ID] => f8865ca429b9076cbbb7c8f4069e3483e153a7e1
+    [ECS] => Array
+        (
+            [visit_times] => 1
+        )
+
+)
+-----------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS_ID] => f8865ca429b9076cbbb7c8f4069e3483e153a7e1
+    [ECS] => Array
+        (
+            [visit_times] => 2
+        )
+
+)
+-----------------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS_ID] => f8865ca429b9076cbbb7c8f4069e3483e153a7e1
+    [ECS] => Array
+        (
+            [visit_times] => 2
+        )
+
+)
+-----------====={"merchant_id":"201401271000001093","merchant_orderno":"2015033053835_40","merchant_trans_date":"20150330062001","oid_billno":"2015033042314366","pay_status":"0","pay_create_date":"20150330142121","pay_finish_date":"20150330142121","date_acct":"20150330","trans_amt":"10","trans_cur":"CNY","user_name":"张谷泉","telephone":"13554754711","idno":"441424198708122575","sign":"075cc546ff0ab4386de2433c9f868b0c"}=======------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS_ID] => f8865ca429b9076cbbb7c8f4069e3483e153a7e1
+    [ECS] => Array
+        (
+            [visit_times] => 2
+        )
+
+)
+-----------=====Array
+(
+    [merchant_id] => 201401271000001093
+    [merchant_orderno] => 2015033053835_40
+    [merchant_trans_date] => 20150330062001
+    [oid_billno] => 2015033042314366
+    [pay_status] => 0
+    [pay_create_date] => 20150330142121
+    [pay_finish_date] => 20150330142121
+    [date_acct] => 20150330
+    [trans_amt] => 10
+    [trans_cur] => CNY
+    [user_name] => 张谷泉
+    [telephone] => 13554754711
+    [idno] => 441424198708122575
+    [sign] => 075cc546ff0ab4386de2433c9f868b0c
+)
+=======------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS_ID] => f8865ca429b9076cbbb7c8f4069e3483e153a7e1
+    [ECS] => Array
+        (
+            [visit_times] => 2
+        )
+
+)
+-----------=====Array
+(
+    [merchant_id] => 201401271000001093
+    [merchant_orderno] => 2015033053835_40
+    [merchant_trans_date] => 20150330062001
+    [oid_billno] => 2015033042314366
+    [pay_status] => 0
+    [pay_create_date] => 20150330142121
+    [pay_finish_date] => 20150330142121
+    [date_acct] => 20150330
+    [trans_amt] => 10
+    [trans_cur] => CNY
+    [user_name] => 张谷泉
+    [telephone] => 13554754711
+    [idno] => 441424198708122575
+    [sign] => 075cc546ff0ab4386de2433c9f868b0c
+)
+=======------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS_ID] => f8865ca429b9076cbbb7c8f4069e3483e153a7e1
+    [ECS] => Array
+        (
+            [visit_times] => 2
+        )
+
+)
+-----------=====Array
+(
+    [merchant_id] => 201401271000001093
+    [merchant_orderno] => 2015033053835_40
+    [merchant_trans_date] => 20150330062001
+    [oid_billno] => 2015033042314366
+    [pay_status] => 0
+    [pay_create_date] => 20150330142121
+    [pay_finish_date] => 20150330142121
+    [date_acct] => 20150330
+    [trans_amt] => 10
+    [trans_cur] => CNY
+    [user_name] => 张谷泉
+    [telephone] => 13554754711
+    [idno] => 441424198708122575
+    [sign] => 075cc546ff0ab4386de2433c9f868b0c
+)
+=======------Array
+(
+    [code] => lianlian
+    [t] => url_notify
+    [ECS] => Array
+        (
+            [visit_times] => 3
+        )
+
+    [ECS_ID] => e313226e7b27d93d817639687d3b70da322ae68a
+)
+-----------=====Array
+(
+    [merchant_id] => 201401271000001093
+    [merchant_orderno] => 2015033001715_41
+    [merchant_trans_date] => 20150330071021
+    [oid_billno] => 2015033042336805
+    [pay_status] => 0
+    [pay_create_date] => 20150330151114
+    [pay_finish_date] => 20150330151114
+    [date_acct] => 20150330
+    [trans_amt] => 10
+    [trans_cur] => CNY
+    [user_name] => 张谷泉
+    [telephone] => 13554754711
+    [idno] => 441424198708122575
+    [sign] => e5e246fb663078ea67d82dfb894db149
+)
+=======------Array
+(
+    [code] => lianlian
+    [t] => url_return
+    [retcode] => 0000
+    [retmsg] => 交易成功
+    [oid_billno] => 2015033042336805
+    [trans_amt] => 10
+    [trans_cur] => CNY
+    [merchant_orderno] => 2015033001715_41
+    [merchant_id] => 201401271000001093
+    [merchant_trans_date] => 20150330071021
+    [pay_status] => SUCCESS
+    [sign_type] => MD5
+    [sign] => f47f138e982d37642a05b967cf193965
+    [ECS] => Array
+        (
+            [visit_times] => 18
+            [history] => 54,55,50,14,24
+            [display] => grid
+        )
+
+    [ECSCP_ID] => ab5000bbc4d184577a2a5513efefa778393f7cda
+    [ECS_ID] => 69354a5617f6df7d7c17bedbfaa79b5b15b04c6b
+)
+-----------============
